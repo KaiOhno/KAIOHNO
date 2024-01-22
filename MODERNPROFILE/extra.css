@@ -1,0 +1,116 @@
+@media (max-width: 768px) {
+  .nav-links {
+    flex-direction: column; /* Stack the links vertically */
+    margin-top: 20px; /* Add margin at the top */
+  }
+
+  .nav-links li + li {
+    margin-left: 0; /* Remove horizontal margin between links */
+  }
+
+  .profile-section {
+    padding: 20px; /* Reduced padding */
+  }
+
+  .profile-picture {
+    width: 75%; /* Increase width percentage */
+  }
+  .contact-container {
+    padding: 0 20px;
+  }
+}
+@media (max-width: 480px) {
+  .nav-container {
+    flex-direction: column; /* Stack the elements vertically */
+  }
+
+  .nav-links {
+    flex-direction: column; /* Stack the nav items */
+    align-items: center; /* Center align items */
+    gap: 10px; /* Gap between nav items */
+  }
+
+  .nav-links a {
+    font-size: 1.5em; /* Smaller font size for nav items */
+  }
+  .profile-content {
+    flex-direction: column; /* Stack elements vertically */
+  }
+
+  .profile-section {
+    padding: 20px; /* Padding for smaller screens */
+  }
+  .profile-info {
+    padding: 10px; /* Reduced padding */
+  }
+
+  .profile-picture {
+    width: 20%; /* Increase width percentage */
+  }
+
+  .divider {
+    width: 80%; /* Match width to profile picture */
+  }
+
+  .title-container {
+    font-size: 20px; /* Smaller font size */
+  }
+
+  .about-container,
+  .experience-container,
+  .projects-container {
+    flex-direction: column; /* Stack elements vertically */
+  }
+  .experience-container {
+    grid-template-columns: 1fr; /* One column layout */
+  }
+
+  .experience-image,
+  .experience-title {
+    grid-column: span 1; /* Adjust grid column to take full width */
+  }
+
+  .experience-container img:last-child {
+    width: 100%; /* Full width for the last image */
+  }
+  .about-photo,
+  .experience-image,
+  .project {
+    width: 100%; /* Full width for smaller screens */
+  }
+
+  .info-boxes,
+  .project-info {
+    flex-direction: column; /* Stack elements vertically */
+  }
+
+  .info-box-image {
+    width: 90%; /* Slightly less than full width for visual padding */
+    margin-bottom: 20px; /* Add space between images */
+  }
+
+  .about-text,
+  .project-info p {
+    font-size: 16px; /* Smaller font size for readability */
+  }
+  .footer-nav {
+    flex-direction: column; /* Stack the elements vertically */
+    margin-bottom: 20px; /* Add space below the navigation for readability */
+  }
+
+  .footer-nav a {
+    margin-bottom: 10px; /* Add space between each link */
+  }
+
+  .footer p {
+    font-size: 14px; /* Smaller font size for mobile readability */
+  }
+
+  #contact input[type='email'] {
+    width: 3vw;
+  }
+  #contact button {
+    width: 90%; /* Full width inputs and buttons */
+    font-size: 16px; /* Smaller font size */
+  }
+}
