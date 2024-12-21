@@ -33,8 +33,8 @@ I believe technology can be a force for good, enhancing daily life and solving r
 ## Connect With Me
 
 - **Email**: [kaiohno@outlook.com](mailto\:kaiohno@outlook.com)
-- **GitHub**: github.com/KaiOohno
-- **LinkedIn**: [linkedin.com/in/KaiOhno](https://linkedin.com/in/kai-ohno)
+- **GitHub**: github.com/KaiOhno
+- **LinkedIn**: [linkedin.com/in/KaiOhno](https://linkedin.com/in/kaiohno)
 
 ##
 
