@@ -1,40 +1,41 @@
 # Kai Ohno
 
-## About Me
+Full-stack mobile developer focused on building and shipping real-world, production-ready applications.
 
-Hi! I'm **Kai Ohno**, the founder of **DealDish**, a startup dedicated to revolutionizing meal planning and grocery shopping with innovative technology. My passion lies in building intuitive, user-focused applications that make everyday tasks simpler and more efficient.
+I design and build data-driven mobile products end to end — from frontend UX to backend services, data pipelines, and performance optimization. My work emphasizes reliability, scalability, and clean system architecture.
 
-## DealDish: A Brief Overview
+---
 
-DealDish is a mobile application that empowers users to save money, plan meals, and track nutrition seamlessly. The app leverages cutting-edge technology like AI, Firebase, and React Native to provide personalized meal recommendations and grocery deals. With DealDish, I aim to make smart food shopping accessible to everyone.
+## Featured Project — Deal Dish
 
-### Key Features of DealDish:
+**Deal Dish** is a production iOS application I designed, built, and shipped as a solo developer.
 
-- **Meal Planning**: Organize your week with suggested meals tailored to your preferences.
-- **Grocery Deals**: Find the best discounts at your favorite stores.
-- **Nutrition Tracking**: Stay informed about your dietary intake with detailed analytics.
-- **Social Sharing**: Share recipes and connect with a community of food enthusiasts.
+The app helps users plan meals around **weekly grocery deals**, combining real-world product data with applied recipe generation logic to reduce food costs and food waste.
 
-## My Vision
+### What I built
+- React Native (Expo) iOS application
+- Backend services for ingesting and processing weekly grocery data
+- Recipe generation logic driven by structured product data
+- Firebase / Firestore data modeling and access patterns
+- Caching and batching strategies to reduce database reads and improve performance
+- Subscription-based monetization (auto-renewable subscriptions)
 
-I believe technology can be a force for good, enhancing daily life and solving real-world problems. With DealDish, my mission is to:
+This project represents full ownership of the system — frontend, backend, data flow, and deployment.
 
-- Promote healthier eating habits.
-- Reduce food waste through smarter planning.
-- Help families and individuals save time and money.
+---
 
-## Skills & Expertise
+## Technical Skills
 
-- **Programming**: React Native, JavaScript, TypeScript
-- **Backend Development**: Firebase, Node.js
-- **UI/UX Design**: User-centered design principles, prototyping
-- **Project Management**: Agile methodologies, team collaboration
+- **Mobile & Frontend**: React Native (Expo), React, JavaScript, TypeScript  
+- **Backend**: Node.js, Firebase (Firestore, Auth, Cloud Functions)  
+- **Data & Performance**: Async data flows, caching, batching, schema design  
+- **Product & UX**: End-to-end app development, user-focused design, iteration  
+- **Deployment**: App Store Connect, production release workflows  
 
-## Connect With Me
+---
 
-- **Email**: [kaiohno@outlook.com](mailto\:kaiohno@outlook.com)
-- **GitHub**: github.com/KaiOhno
-- **LinkedIn**: [linkedin.com/in/KaiOhno](https://linkedin.com/in/kaiohno)
+## Contact
 
-##
-
+- **Email**: kaiohno@outlook.com  
+- **GitHub**: https://github.com/KaiOhno  
+- **LinkedIn**: https://linkedin.com/in/kaiohno  
