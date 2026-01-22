@@ -4,6 +4,9 @@ Full-stack mobile developer focused on building and shipping real-world, product
 
 I design and build data-driven mobile products end to end — from frontend UX to backend services, data pipelines, and performance optimization. My work emphasizes reliability, scalability, and clean system architecture.
 
+🌐 **Portfolio**: https://portfolio-seven-ecru-28.vercel.app/  
+🍽 **Deal Dish**: https://dealdish.ca  
+
 ---
 
 ## Featured Project — Deal Dish
